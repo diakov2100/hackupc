@@ -1,0 +1,13 @@
+slurp_properties
+socket
+__original_fromfd__
+__all__
+fromfd
+__patched__
+__original_socketpair__
+get_hub
+socketpair
+sys
+__socket
+os
+_GLOBAL_DEFAULT_TIMEOUT

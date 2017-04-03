@@ -1,0 +1,5 @@
+extensions
+psycopg2
+trampoline
+make_psycopg_green
+eventlet_wait_callback

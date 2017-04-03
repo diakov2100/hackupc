@@ -1,0 +1,14 @@
+QUERY
+STATUS
+UPDATE
+IQUERY
+NOTIFY
+is_update
+to_text
+from_flags
+_by_text
+dns
+_by_value
+from_text
+to_flags
+UnknownOpcode

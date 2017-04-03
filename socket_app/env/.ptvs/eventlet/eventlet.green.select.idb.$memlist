@@ -1,0 +1,17 @@
+getaddrinfo
+getfqdn
+__patched__
+select
+get_hub
+six
+get_fileno
+__select
+getnameinfo
+__deleted__
+error
+gethostbyname
+gethostbyaddr
+getcurrent
+_GLOBAL_DEFAULT_TIMEOUT
+RLock
+gethostbyname_ex

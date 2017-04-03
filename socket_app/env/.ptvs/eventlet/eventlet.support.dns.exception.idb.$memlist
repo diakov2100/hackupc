@@ -1,0 +1,6 @@
+SyntaxError
+FormError
+Timeout
+UnexpectedEnd
+TooBig
+DNSException

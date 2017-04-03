@@ -1,0 +1,16 @@
+__all__
+gethostbyname
+gethostbyname_ex
+getaddrinfo
+warnings
+os
+getfqdn
+greendns
+create_connection
+gethostbyaddr
+getnameinfo
+sys
+__socket
+__patched__
+slurp_properties
+RLock

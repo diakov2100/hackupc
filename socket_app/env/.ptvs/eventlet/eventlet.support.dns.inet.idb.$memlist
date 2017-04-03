@@ -1,0 +1,8 @@
+dns
+socket
+af_for_address
+inet_ntop
+AF_INET6
+AF_INET
+is_multicast
+inet_pton

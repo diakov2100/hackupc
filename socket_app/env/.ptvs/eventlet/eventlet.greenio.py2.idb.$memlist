@@ -1,0 +1,17 @@
+errno
+_fileobject
+_operation_on_closed_file
+os
+IOClosed
+six
+trampoline
+__all__
+SOCKET_BLOCKING
+_SocketDuckForFd
+notify_close
+get_errno
+GreenPipe
+greenpipe_doc
+notify_opened
+set_nonblocking
+socket

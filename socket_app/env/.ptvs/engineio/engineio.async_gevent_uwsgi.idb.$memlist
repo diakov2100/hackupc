@@ -1,0 +1,9 @@
+six
+uwsgi
+uWSGIWebSocket
+Thread
+_async
+importlib
+gevent
+_websocket_available
+sys

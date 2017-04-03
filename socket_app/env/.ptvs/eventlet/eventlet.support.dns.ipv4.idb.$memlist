@@ -1,0 +1,5 @@
+binary_type
+dns
+inet_ntoa
+struct
+inet_aton

@@ -1,0 +1,12 @@
+six
+socket
+time
+patcher
+httplib
+request
+error
+ssl
+parse
+response
+to_patch
+ftplib

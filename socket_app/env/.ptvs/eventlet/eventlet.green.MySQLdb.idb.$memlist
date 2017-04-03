@@ -1,0 +1,14 @@
+var
+__orig_connections
+connections
+__MySQLdb
+__all__
+cursors
+MySQLdbConnectionsModule
+slurp_properties
+Connect
+connect
+Connection
+converters
+tpool
+__patched__
